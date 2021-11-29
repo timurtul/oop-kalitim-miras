@@ -19,3 +19,5 @@ Elimizde olan bir sınıfı temel olarak kabul ederek o sınıftan türetilmiş 
 >Ufak bir bilgi vereyim
 
 Büyük yazılım projelerinde genellikle önce temel sınıf oluşturulur daha sonra program küçük parçalara bir nevi modüllere bölünür. Her modül farklı bir yazılımcı tarafından yazılır. Böylecene hem belli bir temel matığı kullanarak kod yaxarlar ve projeyi daha hızlı geliştirirler çünkü temel sınıfta ihtiyaç duyulan çoğu veri ve metot kendilerine hazır olarak verilir.
+
+##Miras (Inheritance) Nedir?
