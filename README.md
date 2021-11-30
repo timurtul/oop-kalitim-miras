@@ -4,7 +4,7 @@
 
 C# ile nesne tabanlı programlama dökümanlarında bugün **Kalıtım ve Türetme**'nin dökümanını hazırladım.
 
-##Kalıtım  Nedir?
+## Kalıtım  Nedir?
 
 Programlama kısmından önce okul hayatımızda bile karşımıza çıkan anne ve babamızdan bize geçen genetik/kalıtas özellikler olarak öğretilen Kalıtım konusu C#'ta çok önemli bir yere sahiptir.
 
@@ -20,7 +20,7 @@ Genel olarak kalıtım sınıflar arası hiyerarşik yapıyı oluşturmak için 
 
 Büyük yazılım projelerinde genellikle önce temel sınıf oluşturulur daha sonra program küçük parçalara bir nevi modüllere bölünür. Her modül farklı bir yazılımcı tarafından yazılır. Böylecene hem belli bir temel matığı kullanarak kod yaxarlar ve projeyi daha hızlı geliştirirler çünkü temel sınıfta ihtiyaç duyulan çoğu veri ve metot kendilerine hazır olarak verilir.
 
-##Miras Nedir?
+## Miras Nedir?
 
 En basit tanımı ile bir sınıfı miras alarak, onun metotlarını kullanan başka sınıflar türetebilmemizi sağlayan kavramdır.
 
